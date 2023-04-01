@@ -1,0 +1,12 @@
+caption{
+    color: blueviolet;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+th{
+    color:chocolate;
+}
+td{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blanchedalmond;
+    color:cornflowerblue;
+}
